@@ -44,6 +44,15 @@ a:any-link:hover {
     flex-direction: column;
 }
 
+.banneri {
+    display: flex;
+    justify-content: center;
+    background-color: #23272B;
+    color:white;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
 .sivun-yläpalkki {
     display: flex;
     flex-direction: column;
