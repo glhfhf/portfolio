@@ -664,6 +664,12 @@ a:any-link:hover {
     flex-direction: row;
 }
 
+.artikkelit__kohde1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+
 .sertifikaatit {
     display: flex;
     flex-direction: column;
@@ -684,6 +690,12 @@ a:any-link:hover {
 }
 
 .sertifikaatit__kohde {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+
+.sertifikaatit__kohde1 {
     display: flex;
     flex-direction: row;
     height: 100px;
